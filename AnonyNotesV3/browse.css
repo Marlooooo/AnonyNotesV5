@@ -456,9 +456,6 @@ li a {
    }
 }
 
-
-
-
 /* eto yung nadagdag*/
 @media only screen and (max-width: 469px) {
    .notes .note-box{
@@ -473,4 +470,22 @@ li a {
   .browsebanner img{
    width: 300px;
   }
+
+  .notes img{
+   margin-left: 25px;
+  }
+
+  .notes h4{
+   margin-top: 0px;
+  }
+
+  .notes p{
+   margin-top: 0px;
+  }
+}
+
+@media only screen and (max-width: 769px){
+   .browsebanner{
+      margin: 5px 20px 5px 20px;
+   }
 }
